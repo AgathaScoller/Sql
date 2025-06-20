@@ -1,3 +1,6 @@
+-- Seleciona o banco de dados
+USE petshop;
+
 INSERT INTO cargos (nome) VALUES
 ('Veterinário'),
 ('Atendente'),
